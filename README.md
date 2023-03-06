@@ -1,7 +1,5 @@
-# RandomSentencesGeneratorByHulya
+# Random Sentence Generator
 
-Project Title
-Random Sentence Generator
 
 Project Goals
 The goal of this project is to create a simple program that generates random sentences using pre-defined lists of words. This can be used for various purposes, such as generating writing prompts or testing natural language processing algorithms.
