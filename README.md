@@ -21,4 +21,4 @@ Source Code Link
 GitHub Repository
 
 Live Demo
-You can try out the program yourself by running it on your local machine or accessing a live demo at https://github.com/Hulyamr13/RandomSentencesGeneratorByHulya.
+You can try out the program yourself by running it on your local machine or accessing a live demo at https://github.com/Hulyamr13/RandomSentencesGeneratorByHulya/blob/main/Random_Sentences_Generator.py
